@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I4EMNN8)
+
 [Resume Here](https://github.com/xiazeyu/xiazeyu/blob/main/resume_Zeyu_Xia.pdf)
 
 #### Platform&Tools
