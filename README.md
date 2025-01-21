@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I4EMNN8)
-
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/macOS-Ventura-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/ventura/)
@@ -16,8 +14,7 @@
 [![](https://img.shields.io/badge/IDE-Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=ffffff)](https://www.overleaf.com/)
 
 [![](https://img.shields.io/badge/MacBook_Pro_16%22-2023_with_M2_Pro-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macbook-pro/)
-[![](https://img.shields.io/badge/iPhone-14_Pro-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/iphone/)
-[![](https://img.shields.io/badge/Mi_Pad-5_Pro_12.4%22-FF6900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://forum.xda-developers.com/f/xiaomi-mi-pad-5-pro.12429/)
+[![](https://img.shields.io/badge/iPhone-16_Pro_Max-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/iphone/)
 
 #### Programming Languages
 
