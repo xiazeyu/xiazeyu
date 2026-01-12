@@ -39,11 +39,3 @@
 [![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org/)
 [![](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=ffffff)](https://www.latex-project.org/)
 [![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff)](https://www.figma.com/)
-
-#### Top Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiazeyu&layout=compact)
-
-#### Github Stats
-
-![](https://github-readme-stats.vercel.app/api?username=xiazeyu&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&include_all_commits=true&count_private=true)
